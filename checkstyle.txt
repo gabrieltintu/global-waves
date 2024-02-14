@@ -1,0 +1,7 @@
+Starting audit...
+[ERROR] /Users/gabrieltintu/Desktop/tantulinux/facultate/an2/poo/etapa2/./src/app/searchBar/SearchBar.java:13:40: Using the '.*' form of import should be avoided - app.searchBar.FilterUtils.*. [AvoidStarImport]
+[ERROR] /Users/gabrieltintu/Desktop/tantulinux/facultate/an2/poo/etapa2/./src/app/Admin.java:12:22: Using the '.*' form of import should be avoided - app.user.pages.*. [AvoidStarImport]
+[ERROR] /Users/gabrieltintu/Desktop/tantulinux/facultate/an2/poo/etapa2/./src/app/Admin.java:14:20: Using the '.*' form of import should be avoided - fileio.input.*. [AvoidStarImport]
+[ERROR] /Users/gabrieltintu/Desktop/tantulinux/facultate/an2/poo/etapa2/./src/app/Admin.java:37:23: Name 'LIMIT' must match pattern '^[a-z][a-zA-Z0-9]*$'. [MemberName]
+Audit done.
+Checkstyle ends with 4 errors.
