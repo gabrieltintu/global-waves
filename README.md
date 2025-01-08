@@ -1,3 +1,5 @@
+### © 2023 Gabriel-Claudiu TINTU
+
 # Global Waves
 
 Global Waves is a Java project designed to simulate the diverse functionalities
